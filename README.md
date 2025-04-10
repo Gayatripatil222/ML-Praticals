@@ -63,4 +63,4 @@ Each practical is designed to help students understand and implement various mac
 ## How to Use This Repository
 1. Clone the repository:
    ```bash
-   
+   https://github.com/Gayatripatil222/ML-Praticals.git
